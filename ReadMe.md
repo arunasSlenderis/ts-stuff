@@ -6,7 +6,7 @@
 
 Resources:
 
-https://www.typescriptlang.org/
-https://frontendmasters.com/courses/typescript-practice/introduction/
-https://github.com/type-challenges/type-challenges
-https://www.totaltypescript.com/
+- https://www.typescriptlang.org/
+- https://frontendmasters.com/courses/typescript-practice/introduction/
+- https://github.com/type-challenges/type-challenges
+- https://www.totaltypescript.com/
